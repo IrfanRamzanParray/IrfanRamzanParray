@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrfanRamzanParray
 - 👀 I’m interested in fields like neural networks, machine learing using python
-- 🌱 I’m currently learning AI fundamentals
+- 🌱 I’m currently doing research in Artificial Intelligence.
 - 💞️ I’m looking to collaborate on AI based projects
 - 📫 You can reach me @ linkedin.com/in/irfan-ramzan-parray-0882bb123
 
